@@ -1,0 +1,15 @@
+{
+  "name": "nz.co.momentstudio.unity-octree",
+  "displayName": "Unity Octree",
+  "version": "0.0.0",
+  "unity": "2018.3",
+  "description": "A dynamic, loose octree implementation for Unity written in C#",
+  "keywords": [],
+  "category": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nition/UnityOctree.git",
+    "revision": "62d51f194df823d381ad78aee7519a7ad6517038"
+  }
+}
